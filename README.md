@@ -1,0 +1,2 @@
+# Data-Analysis-Internship-Task-2
+A comprehensive research, Data Scraping and analysis, and design thinking part on a research on customer journeys for products like YPay. To see how long the journey of a customer is - finding out relevant data points from online, and using them for my case study. The research also includes YPay's customer journey and the different customer personas that will be involved. 
